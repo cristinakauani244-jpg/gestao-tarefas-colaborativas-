@@ -1,4 +1,4 @@
-<h1 align="center">📋 Aplicativo de Gestão de Tarefas Colaborativas</h1>
+<h1 align="center"> Aplicativo de Gestão de Tarefas Colaborativas</h1>
 <p align="center">
   Relatório de Análise e Projeto de Sistemas<br>
   Curso Superior de Gestão da Tecnologia da Informação · Universidade Cidade de São Paulo (UNICID)
@@ -49,7 +49,7 @@ O trabalho foi organizado com o framework Scrum, em sprints de duas semanas, com
 
 O levantamento de requisitos usou métodos qualitativos, como entrevistas com potenciais usuários e análise documental. Word e WhatsApp foram usados na comunicação, e o versionamento foi feito pelo GitHub e pelo Word.
 
-🛠️ Decisão Buy / Build / Outsource
+ Decisão Buy / Build / Outsource
 
 A equipe escolheu construir internamente (Build): isso deu mais controle sobre as funções, permitiu personalizar conforme os requisitos e ajudou o grupo a aprender tecnicamente. Comprar uma ferramenta pronta (como Trello ou Asana) foi descartado por não atender às necessidades de comentários e notificações personalizadas, e terceirizar não fazia sentido em um projeto acadêmico em que todos precisavam participar.
 
