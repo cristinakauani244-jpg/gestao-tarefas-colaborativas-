@@ -108,18 +108,4 @@ Critérios de sucesso
 	•	Dados armazenados com segurança
 	•	Usuários satisfeitos com a facilidade de uso e com o ganho de produtividade
 
-Equipe
 
-Adicione aqui o nome de cada integrante do grupo, com o link do perfil no GitHub.
-	•	Nome do integrante 1
-	•	Nome do integrante 2
-	•	Nome do integrante 3
-
-Professor: Cid Rodrigues de Andrade
-
- Próximos passos
-
-	•	Integração com calendários e ferramentas corporativas
-	•	Inteligência para sugestão de prioridades
-	•	Testes em ambientes reais e melhoria da escalabilidade
-	•	Versões móveis nativas
